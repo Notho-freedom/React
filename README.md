@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#I don't put "node_modules" folder in my reposit
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
